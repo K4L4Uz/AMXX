@@ -1,1 +1,1 @@
-# AMXX
+# AMXX plugins
